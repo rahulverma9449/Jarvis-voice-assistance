@@ -1,0 +1,5 @@
+.env
+.venv/
+.qodo/
+__pycache__/
+*.py[cod]
