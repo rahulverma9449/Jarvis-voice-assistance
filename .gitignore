@@ -2,6 +2,7 @@
 .env
 .env.*
 !.env.example
+.qodo/
 __pycache__/
 *.py[cod]
 *.log
