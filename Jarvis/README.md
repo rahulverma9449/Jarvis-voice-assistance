@@ -1,6 +1,6 @@
 # 📌Introduction
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Cover_pic.jpg" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Cover_pic.jpg" alt="">
 
 - A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
 
@@ -44,39 +44,39 @@
 
 ### 👉 1. Greet the user
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture1.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture1.png" alt="">
 
 ### 👉 2. Tell current time & date
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture2.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture2.png" alt="">
 
 ### 👉 3. Search something on Wikipedia
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture3.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture3.png" alt="">
 
 ### 👉 4. Open any Website
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture4.png" width="480"/> <img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture5.png" width="480"/>
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture4.png" width="480"/> <img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture5.png" width="480"/>
 
 ### 👉 5. Plays Music
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture6.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture6.png" alt="">
 
 ### 👉 6. Can search anything on Google
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture7.png" width="480"/> <img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture8.png" width="480"/> 
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture7.png" width="480"/> <img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture8.png" width="480"/> 
 
 ### 👉 7. Take important note in text file
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture9.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture9.png" alt="">
 
 ### 👉 8. Take Screenshots and save it with custom filename
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture10.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture10.png" alt="">
 
 ### 👉 9. Finally make Assistant offline
 
-<img src="https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/Images/Picture11.png" alt="">
+<img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Picture11.png" alt="">
 
 # 📌WHY TO USE JARVIS?
 

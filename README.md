@@ -39,8 +39,8 @@ Python 3.6+
 2. **Clone The Repository**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone <URL>
-     cd Jarvis-Desktop-Voice-Assistant
+     git clone https://github.com/rahulverma9449/Jarvis-voice-assistance.git
+     cd Jarvis-voice-assistance
      ```
 
 3.  **Create and Activate a Virtual Environment**
@@ -61,7 +61,7 @@ Python 3.6+
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
+   - Install all the requirements given in **[requirements.txt](https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
 
 5. **Install PyAudio**  
    - Follow the instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
@@ -88,7 +88,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 👤 **Kishan Kumar Rai**
 
 - Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
+- GitHub: [@rahulverma9449](https://github.com/rahulverma9449)
 - LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
 
 ## 📌Show your support
