@@ -7,6 +7,7 @@ This project is created and maintained by **Rahul Verma**.
 
 <img src="https://github.com/rahulverma9449/Jarvis-voice-assistance/blob/main/Images/Cover_pic.jpg" alt="">
 
+
 - A virtual assistant, also called an AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user. The whole concept based on how can we make our life easier or how can we automate the things by just using our voice command. When the project is being executed then first of all it greets the user as per the time. After that it just listen your command in form of voice and just that that thing according to your command.
 
 - It is implemented in **“PYTHON Programming Language”** in which implementation is very easy. For every sort of work there is module present in python which makes the thing very easy and effective to do. It is user friendly and easy to understandable for beginner.
