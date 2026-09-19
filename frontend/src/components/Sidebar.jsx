@@ -1,0 +1,5 @@
+const navItems = [['⌂', 'Home', 'overview'], ['⌘', 'Capabilities', 'command-library'], ['◫', 'Activity', 'history'], ['◇', 'Integrations', 'browser-data']]
+export default function Sidebar({ status, capabilityCount = 0 }) {
+  const navigate = (target) => document.getElementById(target)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  return <aside className="sidebar"><div className="brand"><div className="brand-mark">J</div><div><strong>JARVIS</strong><small>INTELLIGENCE OS</small></div></div><nav>{navItems.map(([icon, label, target], index) => <button className={index === 0 ? 'active' : ''} key={label} onClick={() => navigate(target)}><b>{icon}</b><span>{label}</span>{label === 'Capabilities' && <em>{capabilityCount}</em>}</button>)}</nav><div className="side-status"><span className={status} /><div><strong>Core {status}</strong><small>Local secure link</small></div></div><div className="profile"><span>RK</span><div><strong>Rahul</strong><small>Administrator</small></div><i>•••</i></div></aside>
+}

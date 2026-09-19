@@ -1,0 +1,101 @@
+{"timestamp": "2026-08-23T14:40:45.423222+05:30", "command": "Jarvis what time is it", "reply": "The current time is 02:40 PM.", "action": "speak"}
+{"timestamp": "2026-08-23T14:40:45.423995+05:30", "command": "tell me a joke", "reply": "Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.", "action": "speak"}
+{"timestamp": "2026-08-23T14:40:45.424599+05:30", "command": "open youtube", "reply": "Opening YouTube.", "action": "open_url"}
+{"timestamp": "2026-08-23T14:40:45.425282+05:30", "command": "system status", "reply": "Jarvis is running on Windows 11.", "action": "speak"}
+{"timestamp": "2026-08-23T14:40:45.426634+05:30", "command": "shutdown computer", "reply": "For safety, shutdown commands are disabled in the web interface.", "action": "speak"}
+{"timestamp": "2026-08-23T14:40:45.427558+05:30", "command": "hello", "reply": "I don't have an AI provider configured yet. I can still handle time, date, weather, Wikipedia, jokes, music, websites, screenshots, and approved applications.", "action": "speak"}
+{"timestamp": "2026-08-23T14:41:19.117882+05:30", "command": "Jarvis system status", "reply": "Jarvis is running on Windows 11.", "action": "speak"}
+{"timestamp": "2026-08-23T14:50:09.522855+05:30", "command": "What is the weather?", "reply": "I couldn't retrieve the weather right now.", "action": "speak"}
+{"timestamp": "2026-08-23T14:51:30.363618+05:30", "command": "What is the weather?", "reply": "I couldn't retrieve the weather right now.", "action": "speak"}
+{"timestamp": "2026-08-23T14:54:24.421297+05:30", "command": "what time is it", "reply": "The current time is 02:54 PM.", "action": "speak"}
+{"timestamp": "2026-08-23T14:54:58.630937+05:30", "command": "hey", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T15:02:16.451420+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T15:03:17.026663+05:30", "command": "what is the date", "reply": "Today is Sunday, 23 August 2026.", "action": "speak"}
+{"timestamp": "2026-08-23T15:06:37.429788+05:30", "command": "Generate image of a futuristic Jarvis command center", "reply": "I couldn't generate that image. Check the image API access and try again.", "action": "speak"}
+{"timestamp": "2026-08-23T16:12:58.989894+05:30", "command": "do you listen me", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T16:13:21.570330+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T16:13:27.089218+05:30", "command": "play the Punjabi song", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T16:56:26.673406+05:30", "command": "open jira", "reply": "Opening the Atlassian application launcher. Configure your site URL for direct access.", "action": "open_url"}
+{"timestamp": "2026-08-23T16:56:26.674990+05:30", "command": "open confluence", "reply": "Opening the Atlassian application launcher. Configure your site URL for direct access.", "action": "open_url"}
+{"timestamp": "2026-08-23T16:56:26.675781+05:30", "command": "check sprint", "reply": "Configure your Atlassian site, email, API token, and Jira board ID in the .env file first.", "action": "speak"}
+{"timestamp": "2026-08-23T16:56:26.676795+05:30", "command": "read confluence release notes", "reply": "Configure your Atlassian site, email, API token, and Jira board ID in the .env file first.", "action": "speak"}
+{"timestamp": "2026-08-23T16:56:26.678603+05:30", "command": "update jira ABC-12 status to done", "reply": "Configure your Atlassian site, email, API token, and Jira board ID in the .env file first.", "action": "speak"}
+{"timestamp": "2026-08-23T16:56:49.383285+05:30", "command": "Hi Jugnu", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T16:56:49.396271+05:30", "command": "open jira", "reply": "Opening the Atlassian application launcher. Configure your site URL for direct access.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:05:32.285718+05:30", "command": "open jira", "reply": "Opening the Atlassian application launcher. Configure your site URL for direct access.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:06:34.928323+05:30", "command": "system status", "reply": "Jugnu is running on Windows 11.", "action": "speak"}
+{"timestamp": "2026-08-23T17:08:29.313662+05:30", "command": "hay juganu open the YouTube", "reply": "Searching YouTube for hay juganu open the youtube.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:12:41.741703+05:30", "command": "Hi Guru", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:12:41.752899+05:30", "command": "system status", "reply": "Guru is running on Windows 11.", "action": "speak"}
+{"timestamp": "2026-08-23T17:25:14.081675+05:30", "command": "Hi Guru", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:27:57.142239+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:27:57.155432+05:30", "command": "system status", "reply": "Jarvis is running on Windows 11.", "action": "speak"}
+{"timestamp": "2026-08-23T17:28:30.711857+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:28:39.041274+05:30", "command": "and play the Punjabi song", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T17:28:56.701132+05:30", "command": "play music punjabi", "reply": "Finding punjabi on YouTube Music.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:34:26.071515+05:30", "command": "do you listen me", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T17:34:58.215261+05:30", "command": "open youtube and play the punjabi song", "reply": "I opened YouTube results for punjabi song. Select a song to play.", "action": "speak"}
+{"timestamp": "2026-08-23T17:35:10.207302+05:30", "command": "open youtube", "reply": "I opened YouTube results for Punjabi songs. Select a song to play.", "action": "speak"}
+{"timestamp": "2026-08-23T17:35:37.940708+05:30", "command": "open the youtube and play the punjabi song", "reply": "I opened YouTube results for open youtube punjabi song. Select a song to play.", "action": "speak"}
+{"timestamp": "2026-08-23T17:36:18.529157+05:30", "command": "open youtube and play the punjabi song", "reply": "Opening YouTube and playing Strawberry | Diljit Dosanjh | Latest Punjabi Song 2026 | New Punjabi Songs 2026 | Speed Records.", "action": "speak"}
+{"timestamp": "2026-08-23T17:36:30.947019+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:36:38.246536+05:30", "command": "YouTube and play the Punjabi song", "reply": "Opening YouTube and playing Judge : Mankirt Aulakh (Official Video) New Punjabi Song Latest Punjabi Songs 2022 | Sky Digital.", "action": "speak"}
+{"timestamp": "2026-08-23T17:37:12.348884+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:37:28.953320+05:30", "command": "tell me which one course I need to have to choose", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T17:48:28.109067+05:30", "command": "open python docs", "reply": "Opening python docs.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:48:28.110725+05:30", "command": "search python decorators", "reply": "Searching Google for python decorators.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:48:28.111865+05:30", "command": "start python study mode", "reply": "Starting python study mode. I opened a focused learning roadmap.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:48:28.234936+05:30", "command": "show last 3 commands", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T17:48:28.236462+05:30", "command": "check disk", "reply": "This computer has 238 gigabytes free out of 426, and 12 logical CPU cores.", "action": "speak"}
+{"timestamp": "2026-08-23T17:48:51.306256+05:30", "command": "show last 3 commands", "reply": "Your last 3 commands were: start python study mode; show last 3 commands; check disk", "action": "speak"}
+{"timestamp": "2026-08-23T17:49:38.021752+05:30", "command": "open python docs", "reply": "Opening python docs.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:49:38.062623+05:30", "command": "search machine learning roadmap", "reply": "Searching Google for machine learning roadmap.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:49:38.082006+05:30", "command": "show last 3 commands", "reply": "Your last 3 commands were: show last 3 commands; open python docs; search machine learning roadmap", "action": "speak"}
+{"timestamp": "2026-08-23T17:55:14.056514+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:55:32.699770+05:30", "command": "show me the last three command", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T17:56:41.467252+05:30", "command": "open the youtube and play the punjabi song", "reply": "Opening YouTube and playing Poplin - Diljit Dosanjh (Full Song) | Ft. Sonam Bajwa | New Punjabi Song 2023 Latest Punjabi Songs.", "action": "speak"}
+{"timestamp": "2026-08-23T17:57:12.086634+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:57:34.081491+05:30", "command": "open github", "reply": "Opening github.", "action": "open_url"}
+{"timestamp": "2026-08-23T17:58:07.787766+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T17:58:42.743774+05:30", "command": "what are you doing why are you listening late you recognise me quickly", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T18:01:45.619165+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:01:45.723489+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:01:45.727144+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:01:45.732350+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:01:45.735847+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:05:06.781632+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:05:20.976463+05:30", "command": "what are you doing", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-23T18:05:51.703744+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:05:59.929530+05:30", "command": "open the YouTube", "reply": "Opening YouTube and playing SZA - Open Arms (Official Audio) ft. Travis Scott.", "action": "speak"}
+{"timestamp": "2026-08-23T18:10:15.925004+05:30", "command": "Search Python decorators", "reply": "Searching Google for python decorators.", "action": "open_url"}
+{"timestamp": "2026-08-23T18:11:36.402557+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:11:42.654541+05:30", "command": "open the local media app", "reply": "Searching Google for the local media app.", "action": "open_url"}
+{"timestamp": "2026-08-23T18:12:09.533396+05:30", "command": "open the local media and play MP3 song", "reply": "I couldn't find matching audio in your Music folder.", "action": "speak"}
+{"timestamp": "2026-08-23T18:12:24.663186+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T18:12:31.134317+05:30", "command": "open local media", "reply": "Searching Google for local media.", "action": "open_url"}
+{"timestamp": "2026-08-23T21:14:42.826431+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T21:14:51.806762+05:30", "command": "open the YouTube and play Punjabi song", "reply": "Opening YouTube and playing OPEN FIRE : IQBAL : VANSH DX : 2k25.", "action": "speak"}
+{"timestamp": "2026-08-23T21:15:03.481168+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-23T21:15:10.707029+05:30", "command": "what is the weather right now", "reply": "I couldn't retrieve the weather right now.", "action": "speak"}
+{"timestamp": "2026-08-23T21:15:56.970424+05:30", "command": "don't listen them ok", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-08-25T08:25:03.885937+05:30", "command": "scan the products", "reply": "Food and product scanner ready. Use the camera to scan an item.", "action": "scan_food"}
+{"timestamp": "2026-08-25T08:25:03.887784+05:30", "command": "scan food", "reply": "Food and product scanner ready. Use the camera to scan an item.", "action": "scan_food"}
+{"timestamp": "2026-08-25T20:03:06.365011+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-25T20:03:16.391889+05:30", "command": "open the YouTube and play the Punjabi song", "reply": "Opening YouTube and playing Banda Bamb (Official Music Video) Jordan Sandhu | Latest Punjabi Songs 2025.", "action": "speak"}
+{"timestamp": "2026-08-25T20:04:05.091909+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-08-25T20:04:09.416406+05:30", "command": "open the food scanner", "reply": "Food and product scanner ready. Use the camera to scan an item.", "action": "scan_food"}
+{"timestamp": "2026-09-05T11:18:33.497246+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-09-05T11:18:45.531498+05:30", "command": "Generate image of a futuristic Jarvis command center", "reply": "I couldn't generate that image. Check the image API access and try again.", "action": "speak"}
+{"timestamp": "2026-09-05T11:18:50.168020+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-09-05T11:20:08.092162+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-09-05T11:20:08.373639+05:30", "command": "hey Jarvis", "reply": "I didn't hear a command.", "action": "speak"}
+{"timestamp": "2026-09-05T11:20:40.749991+05:30", "command": "Hi Jarvis", "reply": "Hi Sir", "action": "wake"}
+{"timestamp": "2026-09-05T11:20:49.442548+05:30", "command": "do you listen me", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-09-05T11:20:58.588414+05:30", "command": "do you listen me", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-09-05T11:21:01.839284+05:30", "command": "do you listen me", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-09-05T11:22:44.061619+05:30", "command": "Thodi Si coffee banaa lena", "reply": "All configured AI providers are temporarily unavailable. Please try again shortly.", "action": "speak"}
+{"timestamp": "2026-09-05T11:28:59.765895+05:30", "command": "calculate 125 * 48", "reply": "The answer is 6,000.", "action": "speak"}
+{"timestamp": "2026-09-05T11:28:59.768216+05:30", "command": "convert 10 kilometers to miles", "reply": "10 kilometer is 6.21 mile.", "action": "speak"}
+{"timestamp": "2026-09-05T11:28:59.769207+05:30", "command": "set a timer for 5 minutes", "reply": "The current time is 11:28 AM.", "action": "speak"}
+{"timestamp": "2026-09-05T11:29:29.720664+05:30", "command": "set a timer for 5 minutes", "reply": "Timer set for 5 minute.", "action": "start_timer"}
+{"timestamp": "2026-09-05T11:30:25.814838+05:30", "command": "set a timer for 1 minute", "reply": "Timer set for 1 minute.", "action": "start_timer"}

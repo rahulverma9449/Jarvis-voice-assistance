@@ -1,0 +1,5 @@
+export default function SystemMonitor({ status, voiceSupported, system }) {
+  const freePercent = system?.disk_total_gb ? Math.round(system.disk_free_gb / system.disk_total_gb * 100) : 0
+  const metrics = [['API link', status === 'online' ? 'Operational' : 'Offline', status === 'online' ? 100 : 5], ['Voice engine', voiceSupported ? 'Ready' : 'Unavailable', voiceSupported ? 92 : 5], ['Disk free', system ? `${system.disk_free_gb} GB` : 'Loading', freePercent], ['Processors', system ? `${system.processor_count} cores` : 'Loading', Math.min((system?.processor_count || 1) * 6, 100)]]
+  return <section className="panel system-monitor"><div className="panel-heading"><span>SYSTEM TELEMETRY</span><small>{system?.platform || 'LOCAL'} {system?.release || ''}</small></div><div className="metric-list">{metrics.map(([label, value, level]) => <div className="metric" key={label}><div><span>{label}</span><b>{value}</b></div><div className="meter"><i style={{ width: `${level}%` }} /></div></div>)}</div></section>
+}
